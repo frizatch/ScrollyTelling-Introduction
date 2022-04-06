@@ -12,27 +12,16 @@ Let's dive in!
 
 ## Workshop Goals
 This workshop will help you:
-- Create a narative story
+- Create a narrative story about your work
 - Incorporate a map in your narrative
 - Be aware of different platforms for interactive story telling
 
 ## Outline
-- [Explore examples](#examples)
+- [Explore Examples](#examples)
 - [Setting up a Story](#story)
 - [ESRI StoryMaps](#esristorymap)
 - [Knight Lab StoryMapsJS](#knightlab)
 - [Sharing](#publish)
-
-
-
-
-
-<p align="center">
-<img src="images/esripublic.png" width="300"/>
-</p>
-
-
-
 
 Story Maps are a way to create a web-based, immersive presentation about any topic you want to share! They don’t even have to have maps in them, but they are designed to easily add a geographic aspect to your story. For ESRI story maps, you can add content to your narrative beyond text like images, videos, maps (of course), and even sound clips if you have a fully licensed account. Knight Lab story maps, built by a journalism group at Northwestern Univeristy, is just one of the data visualization tools they've constructed. It centers on a map and easily links out to other media on the web.
 
@@ -60,25 +49,28 @@ Here are a few ESRI story maps with different highlights:
 
 ### Draft an Outline
 
-Design
-- data (which sets the content of the story)
-- audience (which sets the tone of the story)
-- message (which sets the focus of the story)
+Today we'll just play with the platforms for building immersive narratives, but when you tackle one for real, it's good practice to outline your story before you dig in. Think about what you're trying to accomplish with sharing your story. Here are some design hints to think about... note, images are also data in this context.
+
+**Design**
+- *data* (which sets the content of the story)
+- *audience* (which sets the tone of the story)
+- *message* (which sets the focus of the story)
 
 ### Pick a Platform
+
+Given the condsiderations above about your message, audience and data, which platform best matches what you're trying to accomplish. Think not only about the structure of the product, but its distribution as well. We'll look at two possibilities in this workshop, but be aware there are others that may fit better.
 
 ## <a name="esristorymap"></a> ESRI's StoryMaps
 
 ### Create a Public ESRI account
-(If you want to create elaborate maps or access all of the functions of Story Maps, such as adding audio clips, see the Geospatial Services Page and request a licensed AGOL account.)
-•	An account (public or licensed) is needed to access the Story Maps application and ArcGIS Online (AGOL), an optional application for creating maps with data. 
+(If you want to access all of the functions of Story Maps, such as adding audio clips, request a licensed AGOL account.)
+
+An account (public or licensed) is needed to access the Story Maps application and ArcGIS Online (AGOL), an optional application for creating maps with data. 
 - ArcGIS StoryMaps – a way to build narratives on the web
 - ArcGIS Online – for building more custom, data-based webmaps to enhance your stories
 
 #### The storymap URL
 - Go to https://storymaps.arcgis.com/ and click “Sign in”:
- 
-
 -	Next, look for the Create a Public Account link at the bottom of the next pop-up window:
 
 <p align="center">
@@ -87,20 +79,29 @@ Design
  
 -	You won’t log into an “organization” in the future, you’ll expand the “ArcGIS login” above and enter your username and password.
 -	This account will allow you to make great stories, it just doesn’t have all of the functions of the licensed accounts. It has many built-in widgets for constructing your graphic narrative including “Express Maps.”
--	Click on “+ Create new story” (or “+New story” if you’ve already made one to start another) and play with the graphical interface for adding content and think about how the options relate to the examples you liked in the storymap galleries! More information on the graphical guide comes later in this handout.
+-	Click on “+ Create new story” (or “+New story” if you’ve already made one to start another) and play with the graphical interface for adding content and think about how the options relate to the examples you liked in the storymap galleries! More information on the graphical guide is just below.
 
 #### The ArcGIS Online (AGOL) URL
--	If you want to explore AGOL you can use the SAME account credentials to log in to https://www.arcgis.com/. This is an application for building data-based webmaps.
-	Different application, different URL, same company, same account
-	For more information about AGOL, refer to the AGOL handout in the Workshop Materials box on our GIS Research Guide.
+If you want to explore AGOL you can use the SAME account credentials to log in to https://www.arcgis.com/. This is an application for building data-based webmaps.
+- Different application, different URL, same company, same account
+- Use this to add custom maps to StoryMaps you build with your own spatial data files
 
 ### Build your story!
+
 Use an outline for your story so you have a vision of how it fits together. This will help in choosing the elements that will highlight your narrative. Think about how you want to use images, videos and maps.
+
 Start with an eye-catching image or video to accompany a short, interesting title. Grab the viewer’s attention!
+
 Once you’ve created an account and have logged in at storymaps.arcgis.com, you’ll find a graphical interface that will help you add elements to your story. These elements naturally stack as you scroll down, but you can go back and insert/delete/move what you’ve added.
-Below are some quick basics, but for a more detailed overview of this process, see Allen Caroll’s guide (He and his team are the creators of ESRI’s Story Maps).
-The graphical guide:
+
+Below are some quick basics, but for a more detailed overview of this process, see [Allen Caroll’s guide](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4) (He and his team are the creators of ESRI’s Story Maps).
+
 - Click on the “+New story” button. You’ll see a start page like this: 
+
+<p>
+<img src="images/blanktitle.png" width="300"/>
+</p>
+
 - Title your story by clicking on the text and typing… it’s that simple!
 - Add a dramatic image or video to go along with your title by looking in the upper right for this button: 
 - Use the “+” button seen next to “Tell your story…” to add different types of content:
@@ -109,11 +110,19 @@ The graphical guide:
 
 ## <a name="knightlab"></a> Knight Lab's StoryMap
 
-Sign in via a Google account
+This platform builds something similar to ESRI's 'Map Tour' with a main header map with each slide in the story reprsenting one location on the map.
 
-Pick a basmap from the dropdown or look for further options here: https://leaflet-extras.github.io/leaflet-providers/preview/
+Sign in to the Knight Lab StoryMapJS via a Google account.
 
-Images: use smaller sizes to avoid scroll bar
+Pick a basemap for the project from the dropdown or look for further options on the [Leaflet Providers Page](https://leaflet-extras.github.io/leaflet-providers/preview/)
+
+Add a slide and build out each point of interest per slide!
+- Enter location with lat/lon in decimal degrees or find locations using built-in geocoder provided by Mapbox
+- Add media. You can enter links or upload images. The size of your uploaded image should be appropriate for the webpage (it doesn't get rescaled)
+- Add a Headline for each slide.
+- Add text, including links.
+
+
 
 ## <a name="publish"></a> Publish and Share!
 
