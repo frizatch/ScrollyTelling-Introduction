@@ -1,6 +1,8 @@
 # ScrollyTelling - An Introduction to StoryMaps
 
-"Scrollytelling" technology, often known as "StoryMaps" is a platform for building immersive narratives on the web. There a prebuilt tools that make adding richness of location information to the story a snap! Let's dive in...
+"Scrollytelling" technology, often known as "StoryMaps" is a platform for building immersive narratives on the web. There are prebuilt tools that make adding richness of location information to the story a snap! Even without adding a map, this interactive way of sharing out your message is much more engaging for the reader than a plain slide deck.
+
+Let's dive in!
 
 ## Workshop Resources
  - [ESRI StoryMaps](https://storymaps.arcgis.com/)
@@ -13,11 +15,14 @@ By the end of this workshop, you will be able to:
 - know different platforms for building storymaps
 
 ## Outline
+- examples
+- gather materials
+- Write an outline
 - [ESRI StoryMaps](#esristorymap)
 - [Knight Lab StoryMapsJS](#knightlab)
 
 
-## <a name="esristorymap"></a> StoryMaps - an application by ESRI
+
 
 
 <p align="center">
@@ -38,11 +43,12 @@ o	Augmenting Amache – embedded maps and videos of 3D reconstructions
 o	History and the City – georeferenced and 3D maps about NYC
 
 ## Collect images or videos
-•	Digitally gather some of your own photos, drawings, graphics, or videos you might like to insert into a story.
-•	Take a look around the Smithsonian’s Open Access images to see if any appeal to you to incorporate into your story: https://www.si.edu/openaccess (Make sure the CC0 filter stays on as you look).
-•	Explore Wikimedia Commons, another place for discovering freely usable media: https://commons.wikimedia.org/wiki/Main_Page (Use appropriate attribution!)
+- Digitally gather some of your own photos, drawings, graphics, or videos you might like to insert into a story.
+- Find beautiful, freely usable images by others on the [Unsplash websit](https://unsplash.com/) and give credit to the photographers
+-	Take a look around the Smithsonian’s Open Access images to see if any appeal to you to incorporate into your story: https://www.si.edu/openaccess (Make sure the CC0 filter stays on as you look).
+-	Explore Wikimedia Commons, another place for discovering freely usable media: https://commons.wikimedia.org/wiki/Main_Page (Use appropriate attribution!)
 
-## ESRI's StoryMap
+## <a name="esristorymap"></a> ESRI's StoryMaps
 
 ### Create a Public ESRI account
 (If you want to create elaborate maps or access all of the functions of Story Maps, such as adding audio clips, see the Geospatial Services Page and request a licensed AGOL account.)
