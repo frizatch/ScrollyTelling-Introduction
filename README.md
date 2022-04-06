@@ -8,6 +8,7 @@ Let's dive in!
  - [ESRI StoryMaps](https://storymaps.arcgis.com/)
  - [Knight Lab StoryMaps](https://storymap.knightlab.com/)
  - [Leaflet Basemaps](https://leaflet-extras.github.io/leaflet-providers/preview/)
+ - Media sources: [Unsplash](https://unsplash.com/), [Smithsonsian Open Access](https://www.si.edu/openaccess), [WikiMedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
 ## Workshop Goals
 This workshop will help you:
@@ -17,8 +18,7 @@ This workshop will help you:
 
 ## Outline
 - [Explore examples](#examples)
-- [Gather materials](#media)
-- [Write an outline](#narrative)
+- [Setting up a Story](#story)
 - [ESRI StoryMaps](#esristorymap)
 - [Knight Lab StoryMapsJS](#knightlab)
 - [Sharing](#publish)
@@ -50,20 +50,22 @@ Here are a few ESRI story maps with different highlights:
 
 
 
-## Setting up a Story
+## <a name="story"></a> Setting up a Story
 
-## Collect images or videos
+### Collect images or videos
 - Digitally gather some of your own photos, drawings, graphics, or videos you might like to insert into a story.
-- Find beautiful, freely usable images by others on the [Unsplash websit](https://unsplash.com/) and give credit to the photographers
+- Find beautiful, freely usable images by others on the [Unsplash website](https://unsplash.com/) and give credit to the photographers
 -	Take a look around the Smithsonian’s Open Access images to see if any appeal to you to incorporate into your story: https://www.si.edu/openaccess (Make sure the CC0 filter stays on as you look).
 -	Explore Wikimedia Commons, another place for discovering freely usable media: https://commons.wikimedia.org/wiki/Main_Page (Use appropriate attribution!)
 
-## Draft an Outline then pick your platform
+### Draft an Outline
 
 Design
 - data (which sets the content of the story)
 - audience (which sets the tone of the story)
 - message (which sets the focus of the story)
+
+### Pick a Platform
 
 ## <a name="esristorymap"></a> ESRI's StoryMaps
 
@@ -105,7 +107,7 @@ The graphical guide:
 - Story Maps have different design options including how your title area looks and the overall theme (colors and fonts). You access these by clicking the “Design” button in the upper right next to Preview and Publish:
 - When you are happy with your story and want it live on the web, click the “Publish” button and *voilà* you’ll have a URL you can use to share your work!
 
-## Knight Lab's StoryMap
+## <a name="knightlab"></a> Knight Lab's StoryMap
 
 Sign in via a Google account
 
@@ -113,7 +115,7 @@ Pick a basmap from the dropdown or look for further options here: https://leafle
 
 Images: use smaller sizes to avoid scroll bar
 
-## Publish and Share!
+## <a name="publish"></a> Publish and Share!
 
 In the end, the purpose of these and other scrollytelling platforms (there are many!), is to share your work on the web with your audience. Each platform most likely will have options underneath a "Publish" or "Share" button.
 
@@ -124,6 +126,8 @@ ESRI - use the Publish button to make your URL active
 Knight Lab - use the Share button
 - Copy the provided link to share on social media
 - Use the embed code to incorporated the storymap into a webpage
+
+Think about how your content will be maintained. Considerations include lifespan of both accounts, external links and technology.
 
 **Have Fun!!!**
 
