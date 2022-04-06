@@ -110,9 +110,9 @@ Below are some quick basics, but for a more detailed overview of this process, s
 - Add a dramatic image or video to go along with your title by looking in the upper right for a button that says, "Add cover image or video."
 - Use the “+” button seen next to “Tell your story…” to add different types of content:
 
-<p>
-<img src="images/basicmenu.png" width="300"/>, 
-<img src="images/immersivemenu.png" width="300"/>
+<p align="center">
+<img src="images/basicmenu.png" width="250"/>, 
+<img src="images/immersivemenu.png" width="250"/>
 </p>
 
 - The Basic menu provides different text options such a heading or paragraphs, buttons for links and visual separators.
@@ -122,14 +122,14 @@ Below are some quick basics, but for a more detailed overview of this process, s
 - Story Maps have different design options including how your title area looks and the overall theme (colors and fonts). You access these by clicking the “Design” button in the upper right next to Preview and Publish to see the following options:
 
 <p align="center">
-<img src="images/designoptions.png" width="200"/>
+<img src="images/designoptions.png" width="250"/>
 </p>
 
 - When you are happy with your story and want it live on the web, click the “Publish” button and *voilà* you’ll have a URL you can use to share your work!
 
 ## <a name="knightlab"></a> Knight Lab's StoryMap
 
-This platform builds something similar to ESRI's 'Map Tour' with a main header map with each slide in the story reprsenting one location on the map.
+This platform builds something similar to ESRI's 'Map Tour' with a main header map with each slide in the story representing one location on the map.
 
 Sign in to the Knight Lab StoryMapJS via a Google account.
 
