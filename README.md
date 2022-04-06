@@ -1,8 +1,8 @@
 # ScrollyTelling - An Introduction to StoryMaps
 
-"Scrollytelling" technology, often known as "StoryMaps" is a platform for building immersive narratives on the web. There are prebuilt tools that make adding richness of location information to the story a snap! Even without adding a map, this interactive way of sharing out your message is much more engaging for the reader than a plain slide deck.
+"Scrollytelling" technology, some known as "StoryMaps," are platforms for building immersive narratives on the web. The story map ones have prebuilt tools that make adding richness of location information to the story a snap! Even without adding a map, this interactive way of sharing out your message is much more engaging for the reader than a plain slide deck.
 
-Story Maps are a way to create a web-based, immersive presentation about any topic you want to share! They don’t even have to have maps in them, but they are designed to easily add a geographic aspect to your story. For ESRI story maps, you can add content to your narrative beyond text like images, videos, maps (of course), and even sound clips if you have a fully licensed account. Knight Lab story maps, built by a journalism group at Northwestern University, is just one of the data visualization tools they've constructed. It centers on a map and easily links out to other media on the web.
+For ESRI story maps, you can add content to your narrative beyond text like images, videos, maps (of course), and even sound clips if you have a fully licensed account. Knight Lab story maps, built by a journalism group at Northwestern University, is just one of the data visualization tools they've constructed. It centers on a map and easily links out to other media on the web.
 
 There are many other scrollytelling technologies out there like webflow and shorthand, but this workshop will look into these two as they are map-centric.
 
