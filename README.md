@@ -67,7 +67,7 @@ Given the condsiderations above about your message, audience and data, which pla
 ## <a name="esristorymap"></a> ESRI's StoryMaps
 
 ### Create a Public ESRI account
-(If you want to access all of the functions of Story Maps, such as adding audio clips, request a licensed AGOL account.)
+(If you want to access all of the functions of Story Maps, such as adding audio clips, request a licensed AGOL account from your local ESRI administrator.)
 
 An account (public or licensed) is needed to access the Story Maps application and ArcGIS Online (AGOL), an optional application for creating maps with data. 
 - ArcGIS StoryMaps – a way to build narratives on the web
