@@ -7,19 +7,21 @@ Let's dive in!
 ## Workshop Resources
  - [ESRI StoryMaps](https://storymaps.arcgis.com/)
  - [Knight Lab StoryMaps](https://storymap.knightlab.com/)
+ - [Leaflet Basemaps](https://leaflet-extras.github.io/leaflet-providers/preview/)
 
 ## Workshop Goals
-By the end of this workshop, you will be able to:
-- create a narative story
-- Incorporate a map
-- know different platforms for building storymaps
+This workshop will help you:
+- Create a narative story
+- Incorporate a map in your narrative
+- Be aware of different platforms for interactive story telling
 
 ## Outline
-- examples
-- gather materials
-- Write an outline
+- [Explore examples](#examples)
+- [Gather materials](#media)
+- [Write an outline](#narrative)
 - [ESRI StoryMaps](#esristorymap)
 - [Knight Lab StoryMapsJS](#knightlab)
+- [Sharing](#publish)
 
 
 
@@ -30,17 +32,25 @@ By the end of this workshop, you will be able to:
 </p>
 
 
-Story Maps are a way to create a web-based, immersive presentation about any topic you want to share! They don’t even have to have maps in them, but they are designed to easily add a geographic aspect to your story. For ESRI story maps, you can add content to your narrative beyond text like images, videos, maps (of course), and even sound clips if you have a fully licensed account. Knight Lab story maps, built by a journalism group at Northwester, are a different verions
 
-Here are some steps to get you going:
+
+Story Maps are a way to create a web-based, immersive presentation about any topic you want to share! They don’t even have to have maps in them, but they are designed to easily add a geographic aspect to your story. For ESRI story maps, you can add content to your narrative beyond text like images, videos, maps (of course), and even sound clips if you have a fully licensed account. Knight Lab story maps, built by a journalism group at Northwestern Univeristy, is just one of the data visualization tools they've constructed. It centers on a map and easily links out to other media on the web.
+
+There are many other scrollytelling technologies out there, but this workshop will look into these two.
 
 ## Explore Examples
-•	ESRI, a company that hosts the ArcGIS application we’ll be using (there are others), has storymap galleries that can give you a great idea of what is possible.
-•	Here are a few story maps with different highlights:
-o	A World of Circles – satellite images presented in the “Sidecar” format
-o	Chiles en Nogada – a Map Tour and videos for a recipe
-o	Augmenting Amache – embedded maps and videos of 3D reconstructions
-o	History and the City – georeferenced and 3D maps about NYC
+
+ESRI, a company that hosts many applications such as ArcGIS Online and "StoryMaps", has [storymap galleries](https://doc.arcgis.com/en/arcgis-storymaps/gallery/) that can give you a great idea of what is possible.
+
+Here are a few ESRI story maps with different highlights:
+-	[A World of Circles](https://storymaps.arcgis.com/stories/4ec682ecf79e4055ab3ad1d93adf8cf8) – satellite images presented in the “Sidecar” format
+-	[Chiles en Nogada](https://storymaps.arcgis.com/collections/15788592cf844121a71a6a7dfc4cfc17?item=4) – a Map Tour and videos for a recipe
+-	[Augmenting Amache](https://storymaps.arcgis.com/stories/c256b7ed97cb403aaf107742fc895f85) – embedded maps and videos of 3D reconstructions
+-	[History and the City](https://storymaps.arcgis.com/stories/c54162ae75cd471286793dde45807be9) – georeferenced and 3D maps about NYC
+
+
+
+## Setting up a Story
 
 ## Collect images or videos
 - Digitally gather some of your own photos, drawings, graphics, or videos you might like to insert into a story.
@@ -49,6 +59,11 @@ o	History and the City – georeferenced and 3D maps about NYC
 -	Explore Wikimedia Commons, another place for discovering freely usable media: https://commons.wikimedia.org/wiki/Main_Page (Use appropriate attribution!)
 
 ## Draft an Outline then pick your platform
+
+Design
+- data (which sets the content of the story)
+- audience (which sets the tone of the story)
+- message (which sets the focus of the story)
 
 ## <a name="esristorymap"></a> ESRI's StoryMaps
 
@@ -95,3 +110,23 @@ The graphical guide:
 Sign in via a Google account
 
 Pick a basmap from the dropdown or look for further options here: https://leaflet-extras.github.io/leaflet-providers/preview/
+
+Images: use smaller sizes to avoid scroll bar
+
+## Publish and Share!
+
+In the end, the purpose of these and other scrollytelling platforms (there are many!), is to share your work on the web with your audience. Each platform most likely will have options underneath a "Publish" or "Share" button.
+
+ESRI - use the Publish button to make your URL active
+- Public account has a choice between keeping your story private or fully public
+- Licensed account allows for sharing as per the admin rules by the licensing organization
+
+Knight Lab - use the Share button
+- Copy the provided link to share on social media
+- Use the embed code to incorporated the storymap into a webpage
+
+**Have Fun!!!**
+
+
+
+
