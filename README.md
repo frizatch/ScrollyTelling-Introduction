@@ -48,6 +48,8 @@ o	History and the City – georeferenced and 3D maps about NYC
 -	Take a look around the Smithsonian’s Open Access images to see if any appeal to you to incorporate into your story: https://www.si.edu/openaccess (Make sure the CC0 filter stays on as you look).
 -	Explore Wikimedia Commons, another place for discovering freely usable media: https://commons.wikimedia.org/wiki/Main_Page (Use appropriate attribution!)
 
+## Draft an Outline then pick your platform
+
 ## <a name="esristorymap"></a> ESRI's StoryMaps
 
 ### Create a Public ESRI account
@@ -89,3 +91,7 @@ The graphical guide:
 - When you are happy with your story and want it live on the web, click the “Publish” button and *voilà* you’ll have a URL you can use to share your work!
 
 ## Knight Lab's StoryMap
+
+Sign in via a Google account
+
+Pick a basmap from the dropdown or look for further options here: https://leaflet-extras.github.io/leaflet-providers/preview/
