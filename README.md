@@ -48,8 +48,8 @@ Knight Lab example:
 ### Collect images or videos
 - Digitally gather some of your own photos, drawings, graphics, or videos you might like to insert into a story.
 - Find beautiful, freely usable images by others on the [Unsplash website](https://unsplash.com/) and give credit to the photographers
--	Take a look around the Smithsonian’s Open Access images to see if any appeal to you to incorporate into your story: https://www.si.edu/openaccess (Make sure the CC0 filter stays on as you look).
--	Explore Wikimedia Commons, another place for discovering freely usable media: https://commons.wikimedia.org/wiki/Main_Page (Use appropriate attribution!)
+-	Take a look around the [Smithsonian’s Open Access](https://www.si.edu/openaccess) images to see if any appeal to you to incorporate into your story (make sure the CC0 filter stays on as you look).
+-	Explore [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), another place for discovering freely usable media (use appropriate attribution!).
 
 ### Draft an Outline
 
