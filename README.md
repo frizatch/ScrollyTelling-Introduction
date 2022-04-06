@@ -2,6 +2,10 @@
 
 "Scrollytelling" technology, often known as "StoryMaps" is a platform for building immersive narratives on the web. There are prebuilt tools that make adding richness of location information to the story a snap! Even without adding a map, this interactive way of sharing out your message is much more engaging for the reader than a plain slide deck.
 
+Story Maps are a way to create a web-based, immersive presentation about any topic you want to share! They don’t even have to have maps in them, but they are designed to easily add a geographic aspect to your story. For ESRI story maps, you can add content to your narrative beyond text like images, videos, maps (of course), and even sound clips if you have a fully licensed account. Knight Lab story maps, built by a journalism group at Northwestern University, is just one of the data visualization tools they've constructed. It centers on a map and easily links out to other media on the web.
+
+There are many other scrollytelling technologies out there like webflow and shorthand, but this workshop will look into these two as they are map-centric.
+
 Let's dive in!
 
 ## Workshop Resources
@@ -23,9 +27,6 @@ This workshop will help you:
 - [Knight Lab StoryMapsJS](#knightlab)
 - [Sharing](#publish)
 
-Story Maps are a way to create a web-based, immersive presentation about any topic you want to share! They don’t even have to have maps in them, but they are designed to easily add a geographic aspect to your story. For ESRI story maps, you can add content to your narrative beyond text like images, videos, maps (of course), and even sound clips if you have a fully licensed account. Knight Lab story maps, built by a journalism group at Northwestern Univeristy, is just one of the data visualization tools they've constructed. It centers on a map and easily links out to other media on the web.
-
-There are many other scrollytelling technologies out there, but this workshop will look into these two.
 
 ## Explore Examples
 
@@ -36,6 +37,9 @@ Here are a few ESRI story maps with different highlights:
 -	[Chiles en Nogada](https://storymaps.arcgis.com/collections/15788592cf844121a71a6a7dfc4cfc17?item=4) – a Map Tour and videos for a recipe
 -	[Augmenting Amache](https://storymaps.arcgis.com/stories/c256b7ed97cb403aaf107742fc895f85) – embedded maps and videos of 3D reconstructions
 -	[History and the City](https://storymaps.arcgis.com/stories/c54162ae75cd471286793dde45807be9) – georeferenced and 3D maps about NYC
+
+Knight Lab example:
+- [Southern Literary Trail](https://www.georgiahumanities.org/southern-literary-trail-story-map/)
 
 
 
