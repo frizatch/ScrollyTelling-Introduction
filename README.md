@@ -107,9 +107,23 @@ Below are some quick basics, but for a more detailed overview of this process, s
 </p>
 
 - Title your story by clicking on the text and typing… it’s that simple!
-- Add a dramatic image or video to go along with your title by looking in the upper right for this button: 
+- Add a dramatic image or video to go along with your title by looking in the upper right for a button that says, "Add cover image or video."
 - Use the “+” button seen next to “Tell your story…” to add different types of content:
+
+<p>
+<img src="images/basicmenu.png" width="300"/>, 
+<img src="images/immersivemenu.png" width="300"/>
+</p>
+
+- The Basic menu provides different text options such a heading or paragraphs, buttons for links and visual separators.
+- The Media menu is where you can add maps via the Express Maps tool or maps from your AGOL account (AGOL is required to make a Swipe map)
+- The Immersive menu allows for more elaborate story structures. They all have sub-menus for adding content. For example, Basic and Media menus are available within Sidecar.
+
 - Story Maps have different design options including how your title area looks and the overall theme (colors and fonts). You access these by clicking the “Design” button in the upper right next to Preview and Publish:
+<p>
+<img src="images/designoptions.png" width="300"/>
+</p>
+
 - When you are happy with your story and want it live on the web, click the “Publish” button and *voilà* you’ll have a URL you can use to share your work!
 
 ## <a name="knightlab"></a> Knight Lab's StoryMap
@@ -119,6 +133,8 @@ This platform builds something similar to ESRI's 'Map Tour' with a main header m
 Sign in to the Knight Lab StoryMapJS via a Google account.
 
 Pick a basemap for the project from the dropdown or look for further options on the [Leaflet Providers Page](https://leaflet-extras.github.io/leaflet-providers/preview/)
+
+Customize your background and markers. You can find freely usable map pins on the [Clker site](http://www.clker.com/search/map+pin/1) among other places.
 
 Add a slide and build out each point of interest per slide!
 - Enter location with lat/lon in decimal degrees or find locations using built-in geocoder provided by Mapbox
