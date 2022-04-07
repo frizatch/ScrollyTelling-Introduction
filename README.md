@@ -24,7 +24,7 @@ This workshop will help you:
 - [Explore Examples](#examples)
 - [Setting up a Story](#story)
 - [ESRI StoryMaps](#esristorymap)
-- [Knight Lab StoryMapsJS](#knightlab)
+- [Knight Lab StoryMapJS](#knightlab)
 - [Sharing](#publish)
 
 
