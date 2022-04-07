@@ -116,10 +116,10 @@ Below are some quick basics, but for a more detailed overview of this process, s
 </p>
 
 - The Basic menu provides different text options such a heading or paragraphs, buttons for links and visual separators.
-- The Media menu is where you can add maps via the Express Maps tool or maps from your AGOL account.
+- The Media menu is where you can add maps via the Express Maps tool or maps from your AGOL account. Of course you can also use this to add images and videos!
 - The Immersive menu allows for more elaborate story structures. They all have sub-menus for adding content. For example, Basic and Media menus are available within Sidecar.
 
-- Story Maps have different design options including how your title area looks and the overall theme (colors and fonts). You access these by clicking the “Design” button in the upper right next to Preview and Publish to see the following options:
+- Story Maps have different design options including how your title area looks, the base maps in the "Express Map," and the overall theme (colors and fonts). You access these by clicking the “Design” button in the upper right next to Preview and Publish to see the following options:
 
 <p align="center">
 <img src="images/designoptions.png" width="250"/>
